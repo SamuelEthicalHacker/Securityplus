@@ -1,0 +1,9 @@
+# Ignore keys and local outputs
+
+*.key
+*.pem
+*.enc
+*.log
+outputs/
+.vscode/
+__pycache__/
