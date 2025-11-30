@@ -13,6 +13,6 @@
 - Hashing garantiza integridad; cifrado garantiza confidencialidad.  
 - Para autenticar origen + integridad se usan **firmas digitales** (hash + cifrado asimétrico).
 
-**Best practices:**
+**Mejores prácticas:**
 - Hashear contraseñas con algoritmos lentos (bcrypt, Argon2) y salt.  
 - Usar TLS para datos en tránsito y AES para reposo; gestionar claves en HSM/KMS cuando sea posible.
