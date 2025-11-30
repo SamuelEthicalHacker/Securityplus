@@ -1,6 +1,6 @@
 # Mapping Security Controls
 
-**Objetivo de este módulo:** mostrar un mapeo de controles a objetivos (CIA) y tipo de control.
+**Objetivo de este documento:** mostrar un mapeo de controles a objetivos (CIA) y tipo de control.
 
 Tabla ejemplo (resumen):
 
