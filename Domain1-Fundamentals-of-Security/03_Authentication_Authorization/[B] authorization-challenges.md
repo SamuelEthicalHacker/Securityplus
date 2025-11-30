@@ -1,6 +1,6 @@
 # Authorization Challenges
 
-**Definición:** autorización es la decisión que determina qué recursos puede usar un usuario autenticado.
+**Definición:** autorización es la decisión que determina a qué recursos puede usar un usuario autenticado.
 
 Desafíos comunes:
 
