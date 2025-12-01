@@ -9,8 +9,8 @@
   - Ejemplos: restauración desde backups, reconfiguración, parches de emergencia, playbooks de IR.
 
 **Cómo se emplean en conjunto:**
-- Un IDS detecta un intento (detective) → alerta SIEM → playbook IR activa contención (corrective) → aplicar parche y endurecimiento (preventive).
+- Un IDS detecta un intento (detective) → alerta SIEM → playbook IR activa contención (corrective) → aplicar parche y endurecimiento para prevenir recurrencias (preventive).
 
-**Notas para Security+:**
+**Buenas prácticas alineadas a Security+:**
 - Diseñar controles en capas (defense in depth): preventivos al frente, detectivos en el centro, correctivos planificados.
 - Priorizar controles según riesgo y costo.

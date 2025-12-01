@@ -17,4 +17,4 @@
 **Relación práctica:**  
 - Una política (administrativa) puede requerir MFA; MFA se implementa técnicamente; y las credenciales de hardware se guardan físicamente.
 
-**Good practice:** documentar cada control con responsable, métricas de efectividad y cadencia de revisión.
+**Buena práctica:** documentar cada control con responsable, métricas de efectividad y cadencia de revisión.

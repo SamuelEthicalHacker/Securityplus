@@ -1,11 +1,11 @@
 # Authorization Challenges
 
-**Definición:** autorización es la decisión que determina qué recursos puede usar un usuario autenticado.
+**Definición:** autorización es la decisión que determina a qué recursos puede usar un usuario autenticado.
 
 Desafíos comunes:
 
 - **Privilege Creep:** acumulación de permisos innecesarios con el tiempo.
-- **Segregation of Duties faltante:** un usuario tiene permisos que deberían estar separados.
+- **Segregation of Duties:** un usuario tiene permisos que deberían estar separados.
 - **Excessive privileges:** roles mal diseñados o permisos demasiado amplios.
 - **Stale accounts:** cuentas de ex-empleados no revocadas.
 - **Context-aware access**: necesidad de políticas dinámicas (ej. hora, ubicación).
