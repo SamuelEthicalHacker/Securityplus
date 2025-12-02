@@ -15,4 +15,6 @@ Ejemplo de capas (de exterior a interior):
 5. Datos (cifrado en tránsito y reposo)
 6. Monitor (SIEM, logs, detección)
 
+## Visualización del Modelo Defense in Depth
+
 ![Diagrama de ejemplo - DiD](../assets/defense-in-depth-diagram.png)
