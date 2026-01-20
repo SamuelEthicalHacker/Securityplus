@@ -3,10 +3,10 @@
 
 Este módulo documenta el análisis de amenazas, vulnerabilidades y técnicas de mitigación alineadas con el Dominio 2.
 
-## 🎯 Objetivo del Dominio
+## 🔴 Objetivo del Dominio
 Mis objetivos son demostrar mi capacidad de identificar actores de amenaza, vectores de ataque, vulnerabilidades comunes y aplicar mitigaciones adecuadas en escenarios reales de seguridad defensiva.
 
-## 📌 Enfoque
+## 🔴 Enfoque
 El contenido está orientado a:
 - Análisis de riesgos
 - Comprensión de superficies de ataque
