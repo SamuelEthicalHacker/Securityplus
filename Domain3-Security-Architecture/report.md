@@ -1,7 +1,7 @@
 
 # Reporte Técnico – Dominio 3
 
-En este reporte busco resumir los criterios utilizados para el **diseño y análisis de arquitecturas de seguridad**, enfocándose en infraestructura empresarial, protección de datos y resiliencia operativa.
+En este reporte busco resumir los criterios utilizados para el **diseño y análisis de arquitecturas de seguridad**, enfocándome en infraestructura empresarial, protección de datos y resiliencia operativa.
 
 ## Relación clave
 
