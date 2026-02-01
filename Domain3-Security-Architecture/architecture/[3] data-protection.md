@@ -21,4 +21,4 @@ Protección de la información según su tipo y sensibilidad.
 - DLP
 - Hashing e integridad
 
-La clasificación define el nivel de control requerido.
+### La clasificación define el nivel de control requerido.
