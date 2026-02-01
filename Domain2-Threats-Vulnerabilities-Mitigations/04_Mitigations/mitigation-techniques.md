@@ -43,4 +43,5 @@ Las técnicas de mitigación reducen la probabilidad y el impacto de amenazas ex
 
 
 **Enfoque Security+**
-Las mitigaciones no eliminan amenazas, **reducen el riesgo** mediante controles técnicos y operativos aplicados de forma estratégica.
+
+🔵❗ Las mitigaciones no eliminan amenazas, **reducen el riesgo** mediante controles técnicos y operativos aplicados de forma estratégica.
