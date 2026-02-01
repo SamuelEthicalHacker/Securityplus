@@ -1,4 +1,4 @@
-## Domain 3 – Security Architecture
+## Domain 3 – Security Architecture 
 
 Este módulo contiene documentación técnica y laboratorios prácticos alineados con el Dominio 3: Security Architecture
 
@@ -22,18 +22,18 @@ Aplicar principios de seguridad al diseño de arquitecturas empresariales, consi
 1. **Enterprise Security Architecture Overview**  
    Análisis de una arquitectura empresarial robusta, identificando zonas de seguridad, segmentación y controles defensivos.
 
-2. **Secure Communication and Access Control**  
-   Evaluación de mecanismos de comunicación segura y control de acceso dentro de la infraestructura.
+2. **Data Protection and Classification**  
+   Análisis de clasificación de datos y controles de protección (cifrado, acceso y flujo) dentro de una arquitectura empresarial.
 
 3. **Resilience and Recovery Architecture**  
    Diseño y análisis de estrategias de alta disponibilidad, respaldo y continuidad operativa.
 
-Cada laboratorio incluye evidencia técnica y documentación concisa, enfocada en el análisis práctico y alineada al contenido evaluado por Security+.
+Con cada laboratorio mi enfoque es demostrar evidencia técnica y documentación concisa, enfocada en el análisis práctico y alineada al contenido evaluado por Security+.
 
 
 🔵 Entorno y Herramientas
 
-Parrot OS - Linux · Excalidraw Diagramas  · GitHub
+Parrot OS - Linux · Excalidraw para Diagramas  · GitHub
 
 
 
