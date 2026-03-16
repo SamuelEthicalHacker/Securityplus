@@ -44,7 +44,8 @@ Esta clasificación permite priorizar las medidas de seguridad necesarias para c
 
 Al estudiar esta sección comprendí que evaluar la seguridad de los proveedores es una parte crítica de la gestión de riesgos en una organización.
 
-Un aspecto que me pareció interesante es el uso de cuestionarios de seguridad, ya que permiten obtener una visión inicial de los controles implementados por el proveedor,
-mientras que la evaluación de controles permite validar esa información.
+Un aspecto que me pareció interesante es el uso de cuestionarios de seguridad, ya que permiten obtener una visión inicial de los controles implementados por el proveedor, mientras que la evaluación de controles permite validar esa información.
+
+A través de este proceso comprendí mejor cómo se identifican posibles debilidades de seguridad antes de que un proveedor tenga acceso a sistemas o datos sensibles.
 
 Con este proceso aprendí más sobre la manera en la que se identifican posibles debilidades de seguridad antes de que un proveedor tenga acceso a sistemas o datos sensibles.
