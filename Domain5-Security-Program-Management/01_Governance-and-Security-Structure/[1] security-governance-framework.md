@@ -40,11 +40,11 @@ Los principales objetivos de la gobernanza de seguridad son:
 
 ## Reflexión Técnica
 
-Durante el análisis del marco de gobernanza de seguridad he reforzado un concepto clave: La seguridad organizacional no depende únicamente de controles técnicos,
+Durante el análisis del marco de gobernanza de seguridad he reforzado un concepto fundamental: la seguridad organizacional no depende únicamente de controles técnicos,
 sino de una estructura clara de liderazgo, supervisión y responsabilidad.
 
 Un marco de gobernanza efectivo permite que las decisiones de seguridad se alineen con los objetivos del negocio, 
 estableciendo mecanismos formales de supervisión y rendición de cuentas.
 
-Con esta sección he podido enfatizar otro aspecto clave: La seguridad debe ser gestionada como una función estratégica dentro de la organización,
+Con esta sección he podido reforzar otro aspecto clave: la seguridad debe ser gestionada como una función estratégica dentro de la organización,
 donde roles como el CISO, los comités de seguridad y los equipos operativos colaboran para garantizar una gestión consistente del riesgo.
