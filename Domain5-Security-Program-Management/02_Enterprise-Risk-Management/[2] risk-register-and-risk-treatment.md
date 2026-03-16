@@ -41,13 +41,10 @@ Eliminar el proceso o actividad que genera el riesgo.
 
 ## Reflexión Técnica
 
-Al estudiar el registro de riesgos he comprendido la forma en la que proporciona visibilidad centralizada sobre las amenazas que afectan
-a la organización y las acciones necesarias para gestionarlas.
+Al estudiar el registro de riesgos he comprendido cómo proporciona visibilidad centralizada sobre las amenazas que afectan a la organización y las acciones necesarias para gestionarlas.
 
-Durante esta revisión comprendí que documentar los riesgos, asignar responsables y definir estrategias de tratamiento permite gestionar 
-los riesgos de forma estructurada y medible.
+Durante esta revisión también pude entender que documentar los riesgos, asignar responsables y definir estrategias de tratamiento permite gestionarlos de forma estructurada y medible.
 
-Lo que me pareció más interesante de esta sección fue el tratamiento de los riesgos, ya que es una etapa fundamental dentro de la gestión de riesgos, debido a que
-permite definir cómo una organización responderá ante amenazas identificadas. Estrategias como la mitigación (implementar controles para reducir el riesgo), 
-la transferencia (delegar parte del riesgo a terceros, como mediante seguros), la aceptación (asumir el riesgo cuando su impacto es tolerable) y 
-la evitación (eliminar la actividad que genera el riesgo) permiten tomar decisiones informadas basadas en el impacto potencial sobre el negocio.
+Lo que me pareció más interesante de esta sección fue el tratamiento de los riesgos, ya que representa una etapa fundamental dentro de la gestión de riesgos porque permite definir cómo una organización responderá ante las amenazas identificadas.
+
+Estrategias como la mitigación (implementar controles para reducir el riesgo), la transferencia (delegar parte del riesgo a terceros, como mediante seguros), la aceptación (asumir el riesgo cuando su impacto es tolerable) y la evitación (eliminar la actividad que genera el riesgo) permiten tomar decisiones informadas basadas en el impacto potencial sobre el negocio.
