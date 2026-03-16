@@ -43,10 +43,8 @@ Este monitoreo puede incluir:
 
 ## Reflexión Técnica
 
-Al estudiar el Vendor Risk Management Process he reforzado un aspecto clave: Los proveedores externos pueden representar un riesgo significativo
-para la seguridad de una organización si no se gestionan adecuadamente.
+Al estudiar el Vendor Risk Management Process he reforzado un aspecto clave: los proveedores externos pueden representar un riesgo significativo para la seguridad de una organización si no se gestionan adecuadamente.
 
-Durante este análisis entendí que evaluar la postura de seguridad de los proveedores antes de establecer una relación comercial es fundamental para reducir 
-la exposición a riesgos externos.
+Durante este análisis comprendí que evaluar la postura de seguridad de los proveedores antes de establecer una relación comercial es fundamental para reducir la exposición a riesgos externos.
 
-También comprendí que el monitoreo continuo de los proveedores es necesario para asegurar que mantengan prácticas de seguridad adecuadas durante toda la duración del contrato.
+También comprendí que el monitoreo continuo de los proveedores es necesario para asegurar que mantengan prácticas de seguridad adecuadas durante toda la vigencia del contrato.
