@@ -37,10 +37,8 @@ Estos objetivos ayudan a definir estrategias de recuperación y continuidad oper
 
 ## Reflexión Técnica
 
-Al estudiar el Business Impact Analysis (BIA) he podido aprendar más sobre cómo la interrupción de sistemas o procesos puede afectar directamente las operaciones del negocio.
+Al estudiar el Business Impact Analysis (BIA) he podido aprender más sobre cómo la interrupción de sistemas o procesos puede afectar directamente las operaciones del negocio.
 
-Durante este análisis comprendí que identificar procesos críticos y definir objetivos de recuperación como RTO, RPO y MTD es esencial 
-para diseñar estrategias efectivas de continuidad operativa.
+Durante este análisis comprendí que identificar procesos críticos y definir objetivos de recuperación como RTO, RPO y MTD es esencial para diseñar estrategias efectivas de continuidad operativa.
 
-Esta sección me encantó debido a que he entendido la manera en la que el BIA conecta la seguridad técnica con las necesidades del negocio, 
-permitiendo que las decisiones de recuperación y resiliencia estén alineadas con el impacto real que una interrupción puede generar en la organización.
+Esta sección me resultó particularmente interesante, ya que me permitió comprender cómo el BIA conecta la seguridad técnica con las necesidades del negocio, permitiendo que las decisiones de recuperación y resiliencia estén alineadas con el impacto real que una interrupción puede generar en la organización.
