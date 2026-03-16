@@ -41,10 +41,10 @@ Los procedimientos permiten que las políticas y estándares sean aplicados de f
 
 ## Reflexión Técnica
 
-Con esta sección he complementado un aspecto importante: La diferenciación entre políticas, estándares y procedimientos es fundamental dentro de un programa de seguridad maduro.
+Con esta sección he complementado un aspecto importante: la diferenciación entre políticas, estándares y procedimientos es fundamental dentro de un programa de seguridad maduro.
 
 Durante este análisis comprendí que las políticas establecen la dirección estratégica, los estándares definen los requisitos técnicos obligatorios y
 los procedimientos proporcionan las instrucciones operativas necesarias para aplicar los controles de seguridad.
 
-Me he dado cuenta que realmente esta estructura jerárquica permite que las organizaciones implementen controles de seguridad de manera consistente, 
+Me he dado cuenta de que esta estructura jerárquica permite que las organizaciones implementen controles de seguridad de manera consistente, 
 asegurando que las decisiones estratégicas puedan traducirse en prácticas operativas concretas dentro de los equipos técnicos.
