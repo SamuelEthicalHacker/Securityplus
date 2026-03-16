@@ -48,4 +48,4 @@ Un aspecto que me pareció interesante es el uso de cuestionarios de seguridad, 
 
 A través de este proceso comprendí mejor cómo se identifican posibles debilidades de seguridad antes de que un proveedor tenga acceso a sistemas o datos sensibles.
 
-Con este proceso aprendí más sobre la manera en la que se identifican posibles debilidades de seguridad antes de que un proveedor tenga acceso a sistemas o datos sensibles.
+Finalmente, con este proceso aprendí más sobre la manera en la que se identifican posibles debilidades de seguridad antes de que un proveedor tenga acceso a sistemas o datos sensibles.
