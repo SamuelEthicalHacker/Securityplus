@@ -51,8 +51,6 @@ La definición clara de roles permite aplicar principios como Least Privilege (M
 
 Con esta sección he comprendido que la definición clara de roles y responsabilidades es un elemento crítico para el funcionamiento efectivo de un programa de seguridad.
 
-Durante esta revisión aprendí más sobre seguridad organizacional. La misma requiere la participación de múltiples actores, desde el liderazgo estratégico hasta los usuarios finales.
+Durante esta revisión aprendí más sobre la seguridad organizacional, la cual requiere la participación de múltiples actores, desde el liderazgo estratégico hasta los usuarios finales.
 
-Un aspecto que me pareció interesante es la manera en que se asignan responsabilidades específicas, lo que permite establecer mecanismos de control como la
-separación de funciones y el principio de mínimo privilegio, reduciendo el riesgo de errores operativos o abusos de acceso dentro de los sistemas.
-
+Un aspecto que me resultó particularmente interesante es la manera en que se asignan responsabilidades específicas, lo que permite establecer mecanismos de control como la separación de funciones y el principio de mínimo privilegio, reduciendo el riesgo de errores operativos o abusos de acceso dentro de los sistemas.
