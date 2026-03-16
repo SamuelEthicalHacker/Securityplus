@@ -48,11 +48,8 @@ Los riesgos deben ser monitoreados continuamente para identificar cambios en el 
 
 ## Reflexión Técnica
 
-En el momento en que estudié sobre esta sección hubó algo que me pareció interesante y me ha servido como reforzamiento:
-El uso de un registro de riesgos proporciona visibilidad centralizada sobre las amenazas que afectan a la organización y las acciones necesarias para gestionarlas.
-Esto me ayuda a enfatizar la gran importancia que tiene la documentación y registro de los riesgos.
+En el momento en que estudié esta sección hubo algo que me pareció particularmente interesante y que me sirvió como reforzamiento: el uso de un registro de riesgos proporciona visibilidad centralizada sobre las amenazas que afectan a la organización y las acciones necesarias para gestionarlas. Esto me permitió comprender mejor la gran importancia que tiene la documentación y el registro de los riesgos.
 
-Durante esta revisión comprendí que documentar los riesgos, asignar responsables y definir estrategias de tratamiento permite gestionar los riesgos de forma estructurada y medible.
+Durante esta revisión comprendí que documentar los riesgos, asignar responsables y definir estrategias de tratamiento permite gestionarlos de forma estructurada y medible.
 
-Me ha quedado claro que este proceso facilita la toma de decisiones informadas y permite a los equipos de seguridad monitorear continuamente
-la evolución del riesgo dentro del entorno organizacional.
+Me ha quedado claro que este proceso facilita la toma de decisiones informadas y permite a los equipos de seguridad monitorear continuamente la evolución del riesgo dentro del entorno organizacional.
