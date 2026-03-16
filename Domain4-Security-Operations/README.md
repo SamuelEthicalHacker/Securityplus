@@ -17,6 +17,7 @@ Se enfoca en:
 El objetivo es comprender cómo se protege, supervisa y responde ante amenazas en un entorno empresarial real.
 
 
+
 🔵 Structure / Estructura
 
 - Computing Resources
@@ -24,6 +25,7 @@ El objetivo es comprender cómo se protege, supervisa y responde ante amenazas e
 - Monitoring and Detection
 - Identity and Automation
 - Incident Response
+
 
 
 🔵 Laboratorios
@@ -39,6 +41,7 @@ El objetivo es comprender cómo se protege, supervisa y responde ante amenazas e
 
 
 Con cada laboratorio mi enfoque es demostrar evidencia técnica clara y documentación concisa, centrada en análisis práctico, procesos operativos reales y alineada con los objetivos evaluados por Security+.
+
 
 
 🔵 Entorno y Herramientas
