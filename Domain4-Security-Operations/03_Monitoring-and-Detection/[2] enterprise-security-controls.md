@@ -32,12 +32,10 @@ Los controles empresariales establecen una arquitectura defensiva en múltiples 
 
 ## Reflexión Técnica
 
-El estudio de los controles de seguridad empresariales me permitió analizar 
-cómo las distintas capas de defensa deben integrarse de manera coherente y no funcionar de forma aislada.
+El estudio de los controles de seguridad empresariales me permitió analizar cómo las distintas capas de defensa deben integrarse de manera coherente y no funcionar de forma aislada.
 
-- Identifiqué que la efectividad de los controles depende tanto de su correcta configuración como 
-de su alineación con el riesgo organizacional.
+Identifiqué que la efectividad de los controles depende tanto de su correcta configuración como de su alineación con el riesgo organizacional.
 
-- También reforcé la importancia del enfoque en defensa en profundidad como estrategia para mitigar fallos individuales.
+También reforcé la importancia de aplicar un enfoque de defensa en profundidad como estrategia para mitigar fallos individuales.
 
 Este ejercicio fortaleció mi comprensión sobre la necesidad de una arquitectura de seguridad integrada y bien gobernada.
