@@ -32,8 +32,8 @@ Esta evidencia puede incluir:
 
 ## Reflexión Técnica
 
-Estudiar esta sección me encantó, las auditorias tanto internas como externas son de mis procesos favoritos en la seguridad de la información.
+Esta sección me resultó particularmente interesante, ya que las auditorías tanto internas como externas son algunos de mis procesos favoritos dentro de la seguridad de la información.
+
 Comprendí que estas evaluaciones permiten validar la efectividad de los controles de seguridad implementados en una organización.
 
-Durante este análisis pude darme cuenta de un factor clave: las auditorías internas ayudan a identificar debilidades antes de que se conviertan en problemas mayores, 
-mientras que las auditorías externas proporcionan una evaluación independiente del programa de seguridad.
+Durante este análisis pude observar un factor clave: las auditorías internas ayudan a identificar debilidades antes de que se conviertan en problemas mayores, mientras que las auditorías externas proporcionan una evaluación independiente del programa de seguridad.
