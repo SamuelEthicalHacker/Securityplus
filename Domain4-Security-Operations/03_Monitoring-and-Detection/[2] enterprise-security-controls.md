@@ -38,4 +38,4 @@ Identifiqué que la efectividad de los controles depende tanto de su correcta co
 
 También reforcé la importancia de aplicar un enfoque de defensa en profundidad como estrategia para mitigar fallos individuales.
 
-Este ejercicio fortaleció mi comprensión sobre la necesidad de una arquitectura de seguridad integrada y bien gobernada.
+Finalmente, este ejercicio fortaleció mi comprensión sobre la necesidad de una arquitectura de seguridad integrada y bien gobernada.
