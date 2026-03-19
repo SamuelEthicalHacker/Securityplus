@@ -37,4 +37,4 @@ Comprendí la importancia de aplicar el principio de mínimo privilegio y de ges
 De la misma manera pude identificar cómo los errores en asignaciones de permisos pueden generar riesgos significativos
 incluso sin vulnerabilidades técnicas.
 
-Este análisis consolidó mi visión sobre IAM como un componente crítico para la protección de recursos empresariales.
+Finalmente, este análisis consolidó mi visión sobre IAM como un componente crítico para la protección de recursos empresariales.
