@@ -111,11 +111,10 @@ La efectividad de una investigación depende de la integridad, disponibilidad y 
 
 ## Reflexión Técnica
 
-Con el estudio de las fuentes de datos y registros he reforzado un aspecto clave: la calidad de la detección y la investigación
-depende directamente de la integridad y cobertura de los logs disponibles.
+Con el estudio de las fuentes de datos y registros he reforzado un aspecto clave: la calidad de la detección y la investigación depende directamente de la integridad y cobertura de los logs disponibles.
 
-Identifiqué la necesidad de centralizar y normalizar eventos para facilitar la correlación y el análisis eficiente.
+Identifiqué la necesidad de centralizar y normalizar los eventos para facilitar la correlación y el análisis eficiente.
 
-Por otro lado, reforcé la importancia de políticas de retención adecuadas para soportar investigaciones forenses y cumplimiento normativo.
+Asimismo, comprendí la importancia de contar con políticas de retención adecuadas para soportar investigaciones forenses y cumplir con requisitos normativos.
 
 Este análisis fortaleció mi entendimiento sobre los registros como uno de los activos más críticos dentro de las operaciones de seguridad.
