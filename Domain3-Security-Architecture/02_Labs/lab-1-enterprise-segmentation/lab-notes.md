@@ -6,7 +6,8 @@
 Analizar una arquitectura de seguridad empresarial y comprender cómo se integran sus componentes principales para proteger la infraestructura, los datos y los accesos.
 
 ## Nota preliminar
-> El diagrama utilizado en este laboratorio #1 no es de mi autoría (únicamente el diagrama de este primer laboratorio). Aún así me ha servido como una base y referencia conceptual para entender sobre arquitecturas de seguridad empresarial robusta y analizar sus componentes clave desde una perspectiva defensiva.
+> El diagrama utilizado en este laboratorio #1 no es de mi autoría, ya que corresponde a un recurso de referencia utilizado únicamente en este primer ejercicio.
+Aun así, me ha servido como base conceptual para comprender mejor las arquitecturas de seguridad empresarial robustas y analizar sus componentes clave desde una perspectiva defensiva.
 
 🔵 Análisis realizado
 
