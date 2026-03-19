@@ -34,9 +34,8 @@ Esto permite que la organización pueda responder rápidamente ante posibles com
 
 ## Reflexión Técnica
 
-Con esta sección amplié mis conocimiento sobre seguridad y cumplimiento, al estudiar los acuerdos de seguridad con proveedores comprendí 
-que los contratos juegan un papel importante en la protección de los sistemas y datos de una organización.
+Con esta sección amplié mis conocimientos sobre seguridad y cumplimiento. Al estudiar los acuerdos de seguridad con proveedores comprendí que los contratos juegan un papel importante en la protección de los sistemas y datos de una organización.
 
-Durante este análisis entendí que los SLA y las cláusulas de seguridad permiten establecer responsabilidades claras para los proveedores.
+Durante este análisis comprendí que los SLA y las cláusulas de seguridad permiten establecer responsabilidades claras para los proveedores.
 
 Esto ayuda a garantizar que los proveedores mantengan prácticas de seguridad adecuadas y notifiquen a la organización en caso de incidentes de seguridad.
