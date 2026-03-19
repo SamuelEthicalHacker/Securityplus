@@ -34,8 +34,8 @@ Estas regulaciones establecen requisitos para la recopilación, almacenamiento y
 
 Al estudiar la privacidad de datos comprendí que proteger la información personal es una responsabilidad fundamental para las organizaciones.
 
-Con este análisis pudé reforzar un aspecto clave: las regulaciones de privacidad establecen requisitos importantes para el manejo de datos sensibles.
+Con este análisis pude reforzar un aspecto clave: las regulaciones de privacidad establecen requisitos importantes para el manejo de datos sensibles.
 
-Implementar controles adecuados permite proteger la información de los usuarios y reducir riesgos legales y operativos. 
+Implementar controles adecuados permite proteger la información de los usuarios y reducir riesgos legales y operativos.
 
-Todo esto me ha servido para comprender la conexión que tiene la protección y manejo de los datos con aspectos legales, reputacionales y financieros.
+Todo esto me ha servido para comprender la conexión entre la protección y el manejo de los datos y sus implicaciones legales, reputacionales y financieras.
