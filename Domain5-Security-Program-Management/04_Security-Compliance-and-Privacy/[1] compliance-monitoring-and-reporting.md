@@ -35,10 +35,8 @@ Las organizaciones pueden utilizar los resultados de monitoreo para fortalecer c
 
 ## Reflexión Técnica
 
-Al estudiar el monitoreo de cumplimiento aprendí un aspecto interesante: La seguridad no consiste únicamente en implementar controles,
-sino también en verificar continuamente que estos controles funcionen correctamente.
+Al estudiar el monitoreo de cumplimiento aprendí un aspecto interesante: la seguridad no consiste únicamente en implementar controles, sino también en verificar continuamente que estos controles funcionen correctamente.
 
-Esta sección me ha servido para comprender más a fondo sobre cómo los reportes de cumplimiento ayudan a las organizaciones a demostrar que 
-sus controles de seguridad cumplen con los requisitos establecidos.
+Esta sección me ha servido para comprender más a fondo cómo los reportes de cumplimiento ayudan a las organizaciones a demostrar que sus controles de seguridad cumplen con los requisitos establecidos.
 
 Este proceso también permite identificar debilidades y mejorar continuamente el programa de seguridad.
