@@ -47,11 +47,8 @@ El reporte temprano de actividades sospechosas puede prevenir incidentes de mayo
 
 ## Reflexión Técnica
 
-Al estudiar los programas de concienciación y capacitación pude complementar muchos de mis conocimientos, por ejemplo, los usuarios desempeñan un papel sumamente importante
-en la seguridad de una organización.
+Al estudiar los programas de concienciación y capacitación pude ampliar muchos de mis conocimientos, especialmente sobre el papel fundamental que desempeñan los usuarios en la seguridad de una organización.
 
-Durante este análisis también aprendí más sobre el factor de capacitación constante de los usuarios para de esta manera, reconocer amenazas como el phishing, lo que 
-puede reducir significativamente el riesgo de incidentes de seguridad.
+Durante este análisis también comprendí la importancia de la capacitación continua, ya que permite a los usuarios reconocer amenazas como el phishing, lo que puede reducir significativamente el riesgo de incidentes de seguridad.
 
-Finalmente, comprendí que fomentar una cultura de seguridad y establecer mecanismos claros de reporte permite detectar amenazas de forma temprana 
-y fortalecer la postura de seguridad de la organización.
+Finalmente, entendí que fomentar una cultura de seguridad y establecer mecanismos claros de reporte permite detectar amenazas de forma temprana y fortalecer la postura de seguridad de la organización.
