@@ -24,8 +24,8 @@ La pérdida de confianza puede impactar negativamente la reputación de la organ
 
 ## Reflexión Técnica
 
-Esta sección me ha gustado bastante, pude comprender la razón del porque el cumplimiento regulatorio es fundamental para proteger la estabilidad de una organización.
+Esta sección me ha gustado bastante, ya que comprendí la razón por la cual el cumplimiento regulatorio es fundamental para proteger la estabilidad de una organización.
 
-Durante este análisis entendí que el incumplimiento no solo genera sanciones financieras, sino que también puede afectar la reputación y confianza de los clientes.
+Durante este análisis entendí que el incumplimiento no solo genera sanciones financieras, sino que también puede afectar la reputación y la confianza de los clientes.
 
 Comprendí que el cumplimiento de seguridad es una parte esencial de la gestión del riesgo organizacional.
