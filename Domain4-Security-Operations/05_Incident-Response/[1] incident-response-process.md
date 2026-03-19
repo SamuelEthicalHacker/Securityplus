@@ -113,13 +113,10 @@ Es fundamental en contextos regulatorios y legales.
 
 ## Reflexión Técnica
 
-El análisis del proceso de respuesta ante incidentes me permitió reforzar la importancia de la preparación
-y la definición clara de roles antes de que ocurra un evento de seguridad.
+El análisis del proceso de respuesta ante incidentes me permitió reforzar la importancia de la preparación y la definición clara de roles antes de que ocurra un evento de seguridad.
 
-He podido reforzar un aspecto clave: la efectividad de la respuesta depende en gran medida de procedimientos documentados,
-comunicación estructurada y ejercicios de simulación.
+También he comprendido un aspecto clave: la efectividad de la respuesta depende en gran medida de procedimientos documentados, comunicación estructurada y ejercicios de simulación.
 
-Uno de los factores que más me interesaron de esta sección fue la fase de lecciones aprendidas debido a que
-es clave para fortalecer la postura de seguridad a largo plazo.
+Uno de los factores que más me interesaron de esta sección fue la fase de lecciones aprendidas, ya que resulta fundamental para fortalecer la postura de seguridad a largo plazo.
 
-Este estudio consolidó mi visión de la respuesta a incidentes como un proceso estratégico y no únicamente reactivo.
+Finalmente, este estudio consolidó mi visión de la respuesta a incidentes como un proceso estratégico y no únicamente reactivo.
