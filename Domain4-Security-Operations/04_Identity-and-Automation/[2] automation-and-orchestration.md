@@ -23,12 +23,10 @@ La automatización reduce errores humanos y mejora la eficiencia operativa en se
 
 ## Reflexión Técnica
 
-Con el estudio de la automatización y orquestación he tenido la capacidad de comprender cómo la eficiencia operativa
-puede fortalecerse sin comprometer la seguridad, siempre que los procesos estén correctamente diseñados.
+Con el estudio de la automatización y la orquestación pude comprender cómo la eficiencia operativa puede fortalecerse sin comprometer la seguridad, siempre que los procesos estén correctamente diseñados.
 
-Identifiqué un aspecto clave: la automatización reduce errores humanos, pero también puede amplificar configuraciones
-incorrectas si no se valida adecuadamente.
+Identifiqué un aspecto clave: la automatización reduce errores humanos, pero también puede amplificar configuraciones incorrectas si no se valida adecuadamente.
 
-Reforcé la importancia de incorporar controles, revisión de código y monitoreo dentro de flujos automatizados.
+Por otro lado, reforcé la importancia de incorporar controles, revisión de código y monitoreo dentro de los flujos automatizados.
 
-Realmente este ejercicio fortaleció mi entendimiento sobre la automatización como multiplicador tanto de eficiencia como de riesgo.
+Este ejercicio fortaleció mi entendimiento sobre la automatización como un multiplicador tanto de eficiencia como de riesgo.
