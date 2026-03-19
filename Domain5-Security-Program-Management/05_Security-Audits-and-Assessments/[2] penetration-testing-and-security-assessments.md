@@ -28,6 +28,6 @@ Las evaluaciones de seguridad permiten:
 
 Al estudiar las evaluaciones de seguridad comprendí que identificar vulnerabilidades antes de que sean explotadas es fundamental para proteger los sistemas de una organización.
 
-A través de esta sección he podido comprender más sobre como las pruebas de penetración permiten simular ataques reales y evaluar la capacidad de defensa de los sistemas.
+A través de esta sección pude comprender mejor cómo las pruebas de penetración permiten simular ataques reales y evaluar la capacidad de defensa de los sistemas.
 
-Finalmente, me quedó más que claro que las evaluaciones ayudan a fortalecer los controles de seguridad y reducir el riesgo de incidentes.
+Finalmente, comprendí claramente que las evaluaciones ayudan a fortalecer los controles de seguridad y reducir el riesgo de incidentes.
