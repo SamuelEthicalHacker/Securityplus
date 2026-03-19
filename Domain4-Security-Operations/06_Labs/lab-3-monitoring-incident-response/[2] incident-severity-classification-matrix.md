@@ -81,7 +81,7 @@ Clasificación resultante:
 
 Ahora bien, ¿Qué acción es la más adecuada y común en un escenario como este?
 
-El proceso suele seguir estos puntos: 
+El proceso suele seguir estos pasos: 
 
 - Investigación por parte del **SOC Analyst / Analista SOC**
 - Monitoreo de actividad relacionada
