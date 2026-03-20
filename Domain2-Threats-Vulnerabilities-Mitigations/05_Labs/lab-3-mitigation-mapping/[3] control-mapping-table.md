@@ -1,7 +1,7 @@
 
 # Control Mapping Table
 
-Este documento presenta una tabla de mapeo entre amenazas, vulnerabilidades y controles de mitigación, con el objetivo de demostrar cómo los riesgos identificados pueden ser reducidos mediante la aplicación de controles de seguridad específicos. 
+En este espacio mostraré una tabla de mapeo entre amenazas, vulnerabilidades y controles de mitigación, con el objetivo de demostrar cómo los riesgos identificados pueden ser reducidos mediante la aplicación de controles de seguridad específicos. 
 
 
 | Amenaza                | Vulnerabilidad               | Control aplicado        | Técnica de mitigación        |
