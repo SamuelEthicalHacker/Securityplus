@@ -1,6 +1,5 @@
 # Attack Vectors / Vectores de ataque
-Los vectores de ataque son los métodos utilizados para llevar a cabo un ataque.
-Entre los principales se destacan:
+Un vector de ataque es la ruta, vía o medio específico que utiliza un actor de amenaza para obtener acceso no autorizado a un sistema, red o dispositivo. Es el "cómo" se logra explotar una vulnerabilidad para entregar una carga útil maliciosa (payload) o alcanzar un objetivo.
 
 ## Social Engineering / Ingeniería social
 Manipulación psicológica para inducir a un usuario a realizar acciones inseguras.
