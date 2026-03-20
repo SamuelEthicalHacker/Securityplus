@@ -4,7 +4,7 @@ Un vector de ataque es la ruta, vía o medio específico que utiliza un actor de
 ## Social Engineering / Ingeniería social
 Manipulación psicológica para inducir a un usuario a realizar acciones inseguras.
 
-Entre las técnicas de ingenieria social se incluyen:
+Entre las técnicas de ingeniería social se incluyen:
 
 - Phishing, spear phishing, smishing
 - Vishing
