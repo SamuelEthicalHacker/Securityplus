@@ -1,7 +1,7 @@
 
 # Exposure Examples / Ejemplos de exposición
 
-Estos ejemplos de exposición representan condiciones reales que aumentan la superficie de ataque y facilitan la explotación de vulnerabilidades existentes.
+En esta sección presento ejemplos de exposición que representan condiciones reales capaces de aumentar la superficie de ataque y facilitar la explotación de vulnerabilidades existentes.
 
 ## Software obsoleto
 - Sistemas operativos o aplicaciones sin parches
