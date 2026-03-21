@@ -1,9 +1,7 @@
 
 # Computing Resources Security / Seguridad en Recursos de Cómputo
 
-
-En esta sección he analizado los controles aplicados directamente sobre sistemas, dispositivos y aplicaciones dentro de un entorno empresarial. A continuación se muestra el contenido aprendido...
-
+La Seguridad en Recursos de Cómputo constituye la capa de defensa técnica aplicada directamente sobre los sistemas, dispositivos y aplicaciones de una organización para reducir drásticamente su superficie de ataque y mitigar riesgos operativos. Esta disciplina asegura la integridad del ecosistema empresarial mediante la aplicación de líneas base seguras que estandarizan las configuraciones mínimas de protección, la implementación de soluciones móviles robustas para el control de activos en entornos dinámicos, la ejecución de procesos de endurecimiento (hardening) que blindan cada componente frente a la explotación de vulnerabilidades específicas y otros procedimientos de seguridad que se detallan en este mismo espacio.
 
 ---
 
@@ -119,10 +117,10 @@ Permite detección temprana de incidentes y desviaciones del baseline.
 
 ## Reflexión Técnica
 
-El desarrollo de esta sección me permitió comprender que la seguridad de los recursos de cómputo no depende únicamente de herramientas avanzadas, sino de configuraciones básicas correctamente aplicadas y mantenidas.
+El desarrollo de esta sección me ha permitido comprender que la seguridad de los recursos de cómputo no depende únicamente de herramientas avanzadas, sino también de configuraciones básicas correctamente aplicadas y mantenidas.
 
-Al analizar secure baselines, hardening, seguridad inalámbrica, protección de aplicaciones y monitoreo, reforcé la importancia de la estandarización como mecanismo para reducir errores humanos y desviaciones de configuración.
+Al analizar las líneas base de seguridad (secure baselines), el hardening de sistemas, la seguridad de redes inalámbricas, la protección de aplicaciones y el monitoreo, he reforzado la importancia de la estandarización como mecanismo para reducir errores humanos y desviaciones de configuración.
 
-También pude identificar que muchos incidentes de seguridad tienen su origen en configuraciones débiles o por defecto, lo que confirma que el endurecimiento y la aplicación consistente de controles preventivos son fundamentales dentro de las operaciones de seguridad.
+También he podido identificar que muchos incidentes de seguridad tienen su origen en configuraciones débiles o por defecto, lo que confirma que el endurecimiento de sistemas y la aplicación consistente de controles preventivos son fundamentales dentro de las operaciones de seguridad.
 
 
