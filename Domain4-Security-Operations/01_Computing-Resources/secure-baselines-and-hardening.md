@@ -1,7 +1,7 @@
 
 # Computing Resources Security / Seguridad en Recursos de Cómputo
 
-La Seguridad en Recursos de Cómputo constituye la capa de defensa técnica aplicada directamente sobre los sistemas, dispositivos y aplicaciones de una organización para reducir drásticamente su superficie de ataque y mitigar riesgos operativos. Esta disciplina asegura la integridad del ecosistema empresarial mediante la aplicación de líneas base seguras que estandarizan las configuraciones mínimas de protección, la implementación de soluciones móviles robustas para el control de activos en entornos dinámicos, la ejecución de procesos de endurecimiento (hardening) que blindan cada componente frente a la explotación de vulnerabilidades específicas y otros procedimientos de seguridad que se detallan en este mismo espacio.
+La Seguridad en Recursos de Cómputo constituye la capa de defensa técnica aplicada directamente sobre los sistemas, dispositivos y aplicaciones de una organización para reducir drásticamente su superficie de ataque y mitigar riesgos operativos. 
 
 ---
 
