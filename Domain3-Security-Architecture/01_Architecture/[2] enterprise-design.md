@@ -1,7 +1,7 @@
 
 ## Enterprise Infrastructure Design / Diseño de infraestructura empresarial
 
-Aplicación de principios de seguridad en infraestructura empresarial.
+El Diseño de Infraestructura Empresarial es el marco estratégico que organiza los activos tecnológicos de una organización para garantizar que las operaciones sean eficientes y, sobre todo, seguras. 
 
 ---
 
