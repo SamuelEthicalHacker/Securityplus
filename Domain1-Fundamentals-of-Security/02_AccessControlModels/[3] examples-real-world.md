@@ -1,64 +1,95 @@
 # Real-World Examples of Access Control Models
 
-En este apartado listaré ejemplos concretos para relacionar los modelos con implementaciones reales:
+En este apartado se presentan ejemplos concretos que relacionan los modelos de control de acceso con implementaciones reales.
 
+---
 
-1. DAC (Discretionary Access Control):
+## 1. DAC (Discretionary Access Control)
 
-Sistemas Windows
-Los archivos y carpetas permiten que el propietario decida quién puede leer, escribir o ejecutar. El dueño tiene control discrecional sobre permisos.
+**Ejemplo: Sistemas Windows**
 
+Los archivos y carpetas permiten que el **propietario del recurso** decida quién puede:
 
-2. MAC (Mandatory Access Control):
+- Leer
+- Escribir
+- Ejecutar
 
-Entornos del gobierno / militares
-Documentos clasificados (Confidential, Secret, Top Secret) se asignan según etiquetas y niveles de seguridad.
-Los usuarios no pueden modificar sus propios permisos.
+El propietario tiene **control discrecional sobre los permisos**, pudiendo otorgar o revocar acceso a otros usuarios.
 
+---
 
-3. RBAC (Role-Based Access Control):
+## 2. MAC (Mandatory Access Control)
 
-Aplicaciones corporativas como Active Directory
-Roles definidos:
+**Ejemplo: Entornos gubernamentales o militares**
 
-"HR"
+Los documentos clasificados se asignan según **niveles de seguridad y etiquetas**, tales como:
 
-"Finance"
+- Confidential
+- Secret
+- Top Secret
 
-"IT Admin"
+Características clave:
 
-"Support"
+- Los permisos son definidos por el **sistema o la política de seguridad**.
+- Los usuarios **no pueden modificar sus propios permisos**.
 
-Los usuarios heredan permisos según el rol asignado.
+---
 
+## 3. RBAC (Role-Based Access Control)
 
-4. ABAC (Attribute-Based Access Control)
+**Ejemplo: Aplicaciones corporativas con Active Directory**
 
-Servicios en la nube como AWS IAM o Azure AD
-Las políticas toman decisiones basadas en atributos:
+Los permisos se asignan a **roles**, y los usuarios heredan los accesos según el rol asignado.
 
-Usuario → “Department=Finance”
+Roles típicos dentro de una organización:
 
-Recurso → “Data=Payroll”
+- **HR**
+- **Finance**
+- **IT Admin**
+- **Support**
 
-Contexto → “Location=Office”, “Time=Business Hours”
+Esto permite administrar permisos de forma **centralizada y escalable**.
 
-Política típica:
+---
 
-“Permitir acceso si el usuario es del departamento de Finanzas, está en horario laboral y se conecta desde una IP corporativa.”
+## 4. ABAC (Attribute-Based Access Control)
 
+**Ejemplo: Servicios en la nube (AWS IAM o Azure AD)**
 
-5. Mixto/Contextual (Zero Trust)
+Las políticas toman decisiones de acceso basadas en **atributos**.
 
-Google BeyondCorp
-Acceso basado en:
+### Tipos de atributos
 
-Estado de dispositivo
+**Usuario**
 
-Identidad
+- `Department = Finance`
 
-Riesgo en tiempo real
+**Recurso**
 
-Reglas dinámicas
+- `Data = Payroll`
 
-No se confía en nada por defecto, incluso dentro de la red interna.
+**Contexto**
+
+- `Location = Office`
+- `Time = Business Hours`
+
+### Política típica
+
+> Permitir acceso si el usuario pertenece al departamento de Finanzas, se encuentra dentro del horario laboral y se conecta desde una IP corporativa.
+
+---
+
+## 5. Modelo Mixto / Contextual (Zero Trust)
+
+**Ejemplo: Google BeyondCorp**
+
+El acceso se basa en múltiples factores dinámicos:
+
+- Estado del dispositivo
+- Identidad del usuario
+- Riesgo en tiempo real
+- Reglas dinámicas de seguridad
+
+Principio clave:
+
+> No se confía en ningún usuario o dispositivo por defecto, incluso si se encuentra dentro de la red interna.
