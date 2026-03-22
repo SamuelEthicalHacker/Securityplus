@@ -1,5 +1,4 @@
-
-## Lab 1 – Enterprise Security Architecture Overview / Visión general de arquitectura de seguridad empresarial (simulada)
+## Lab 1 – Enterprise Security Architecture Overview / Visión general del Diagrama de Arquitectura de Seguridad Empresarial
 
 🔴 Objetivo
 
@@ -20,7 +19,7 @@ El diagrama representa una arquitectura híbrida que combina:
 
 🔵 Relación con Security+
 
-Con este laboratorio he podido reforzar conceptos asociados a:
+Con este laboratorio he podido reforzar conceptos relacionados con:
 
 - Modelos de arquitectura (on-premises, cloud, virtualización, IoT/ICS)
 - Principios de diseño de infraestructura empresarial segura
