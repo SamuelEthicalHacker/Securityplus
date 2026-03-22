@@ -14,7 +14,7 @@ Los archivos y carpetas permiten que el **propietario del recurso** decida quié
 - Escribir
 - Ejecutar
 
-El propietario tiene **control discrecional sobre los permisos**, pudiendo otorgar o revocar acceso a otros usuarios.
+El propietario tiene control discrecional sobre los permisos, pudiendo otorgar o revocar acceso a otros usuarios.
 
 ---
 
@@ -30,8 +30,8 @@ Los documentos clasificados se asignan según **niveles de seguridad y etiquetas
 
 Características clave:
 
-- Los permisos son definidos por el **sistema o la política de seguridad**.
-- Los usuarios **no pueden modificar sus propios permisos**.
+- Los permisos son definidos por el sistema o la política de seguridad.
+- Los usuarios no pueden modificar sus propios permisos.
 
 ---
 
@@ -48,7 +48,7 @@ Roles típicos dentro de una organización:
 - **IT Admin**
 - **Support**
 
-Esto permite administrar permisos de forma **centralizada y escalable**.
+Esto permite administrar permisos de forma centralizada y escalable.
 
 ---
 
