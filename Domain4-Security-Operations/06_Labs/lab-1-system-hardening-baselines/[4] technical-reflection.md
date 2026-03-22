@@ -2,7 +2,7 @@
 
 ## System Hardening Baselines / Endurecimiento de Sistemas
 
-Durante este mini-laboratorio pude comprender la importancia de establecer configuraciones base seguras (security baselines) para fortalecer la seguridad de los sistemas operativos.
+Durante este mini-laboratorio pude comprender la importancia de establecer configuraciones base seguras (secure baselines) para fortalecer la seguridad de los sistemas operativos.
 
 Evalué cómo el proceso de system hardening permite reducir la superficie de ataque mediante la aplicación de configuraciones seguras, la restricción de servicios innecesarios y el control de parámetros críticos del sistema.
 

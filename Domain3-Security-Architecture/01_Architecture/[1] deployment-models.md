@@ -1,7 +1,7 @@
 
-## Architecture Models / Módelos de Arquitectura
+## Architecture Models / Modelos de Arquitectura
 
-Comparación de modelos de arquitectura desde una perspectiva de seguridad.
+Los modelos de arquitectura definen el diseño, la ubicación y el método de despliegue de los activos tecnológicos de una organización. Elegir un modelo de arquitectura depende de aspectos como el nivel de control deseado sobre la infraestructura, la capacidad para gestionar la carga de responsabilidad operativa y las necesidades de seguridad lógica o física de cada activo.
 
 ---
 

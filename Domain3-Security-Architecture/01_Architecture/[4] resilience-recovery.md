@@ -1,6 +1,6 @@
 ## Resilience and Recovery / Resiliencia y recuperación
 
-Seguridad orientada a disponibilidad y continuidad operativa.
+La Resiliencia y recuperación son capacidades estratégica de una organización para mantener la disponibilidad de sus servicios y asegurar la continuidad operativa incluso ante incidentes críticos. 
 
 ---
 

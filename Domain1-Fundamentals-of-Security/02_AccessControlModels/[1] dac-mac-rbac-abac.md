@@ -1,7 +1,7 @@
 
 # Access Control Models (DAC, MAC, RBAC, ABAC)
 
-Los modelos de control de acceso definen cómo se gestionan los permisos dentro de un sistema. Security+ requiere conocer sus características, ventajas y limitaciones.
+Los modelos de control de acceso definen cómo se gestionan los permisos dentro de un sistema.
 
 ---
 

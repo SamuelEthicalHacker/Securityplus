@@ -1,6 +1,6 @@
 ## Data Protection / Protección de los datos
 
-Protección de la información según su tipo y sensibilidad.
+La Protección de Datos constituye un pilar fundamental de seguridad, centrado en salvaguardar el activo más valioso de cualquier organización: la información. Este proceso integral implica identificar primero los tipos de datos según su estado operativo, ya sea en reposo, tránsito o uso, para luego establecer una clasificación precisa basada en su sensibilidad, lo cual define directamente el nivel de control y rigor requerido para su manejo.
 
 ---
 
