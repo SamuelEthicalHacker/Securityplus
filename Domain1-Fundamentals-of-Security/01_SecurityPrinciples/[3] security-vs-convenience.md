@@ -1,14 +1,56 @@
 # Seguridad vs Comodidad
 
-Balance entre seguridad (controles que aumentan protección) y comodidad (usabilidad y productividad). 
+Balance entre seguridad (controles que aumentan la protección) y comodidad (usabilidad y productividad).
 
-Ejemplos: 
+---
 
-1. Agregar MFA aumenta seguridad pero añade fricción al usuario. Muchos usuarios consideran tedioso el tener que pasar por varios procesos al momento de autenticarse en algún sistema, red o aplicación, esto supone un aspecto de comodidad por parte del usuario al querer acceder rápidamente a recursos o a su panel de gestión en escenarios como aplicaciones web. Por otro lado, el MFA es un aspecto clave de seguridad, ya que usar varios controles de autenticación evita accesos autorizados.
-  
-2. Establecer una política de contraseñas seguras que obligue a los usuarios y al personal a cambiar sus contraseñas cada 90 días. Esta es una de las medidas más efectivas de operatividad y protección de la información pero a su vez, es considerado tedioso por muchos usuarios. Esto es otro ejemplo que demuestra el balance entre el aumento de seguridad y la comodidad o productividad.
+## Ejemplos
 
+### 1. Uso de MFA
 
-**Regla práctica:** buscar controles que maximicen seguridad con mínima fricción: SSO + MFA, políticas de contraseña razonables, automatización de parches.
+Agregar MFA (Multi-Factor Authentication) aumenta la seguridad, pero también introduce fricción para el usuario.
 
-**Metáfora clave:** "La casa con las 3 cerraduras": sabemos que más cerraduras = más seguro, pero menos cómodo; la clave es encontrar el punto óptimo.
+- Los usuarios deben pasar por múltiples pasos de autenticación.
+- Esto puede percibirse como un proceso tedioso al intentar acceder rápidamente a sistemas o aplicaciones.
+
+Sin embargo:
+
+- MFA es un control de seguridad clave, ya que añade capas adicionales de verificación.
+- Reduce significativamente el riesgo de accesos no autorizados, incluso si la contraseña es comprometida.
+
+### 2. Políticas de contraseñas estrictas
+
+Establecer una política de contraseñas seguras que obligue a cambiarlas cada 90 días aumenta la protección de la información.
+
+Ventajas:
+
+- Reduce el riesgo de compromiso prolongado de credenciales.
+- Mejora el control sobre la seguridad de las cuentas.
+
+Desventajas:
+
+- Muchos usuarios consideran este proceso incómodo o tedioso.
+- Puede afectar la productividad si las políticas son demasiado estrictas.
+
+Este es otro ejemplo del **balance entre seguridad y comodidad**.
+
+---
+
+## Regla práctica
+
+Buscar controles que maximicen la seguridad con la menor fricción posible, por ejemplo:
+
+- **SSO + MFA**
+- **Políticas de contraseña razonables**
+- **Automatización de parches**
+
+## Metáfora clave
+
+**"La casa con las 3 cerraduras"**
+
+Cuantas más cerraduras tenga una casa:
+
+- **Mayor será la seguridad**
+- **Menor será la comodidad**
+
+La clave está en encontrar el **punto óptimo entre protección y usabilidad**.
