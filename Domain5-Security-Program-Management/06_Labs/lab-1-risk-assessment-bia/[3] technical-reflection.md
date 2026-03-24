@@ -1,10 +1,10 @@
 # Reflexión Técnica
 
-Durante este laboratorio he podido analizar varios aspectos importantes que me brindan una visión más clara sobre cómo las organizaciones evalúan los riesgos y cómo estos pueden afectar la continuidad de las operaciones del negocio.
+Durante este espacio práctico he podido analizar varios aspectos importantes que me brindan una visión más clara sobre cómo las organizaciones evalúan los riesgos y cómo estos pueden afectar la continuidad de las operaciones del negocio.
 
 ## Risk Assessment
 
-En la primera parte del laboratorio desarrollé una Matriz de Impacto de Riesgo, la cual me permitió comprender cómo las organizaciones priorizan los riesgos en función de dos factores principales: probabilidad e impacto.
+En la primera parte de esta sección desarrollé una Matriz de Impacto de Riesgo, la cual me permitió comprender cómo las organizaciones priorizan los riesgos en función de dos factores principales: probabilidad e impacto.
 
 Este enfoque me ayudó a identificar cómo un mismo riesgo puede tener distintos niveles de prioridad dependiendo de su probabilidad de ocurrencia y de las consecuencias que podría generar en los procesos críticos del negocio.
 
