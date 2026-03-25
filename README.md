@@ -6,7 +6,7 @@ El enfoque principal es demostrar comprensión sólida de los conceptos clave de
 
 ---
 
-# 🔴 Objetivo del Repositorio
+## 🔴 Objetivo del Repositorio
 
 Mi objetivo con este proyecto es construir un espacio técnico que:
 
