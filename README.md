@@ -1,68 +1,72 @@
-# Security+ – Cybersecurity Knowledge & Practical Demonstrations
+# Security+ – Cybersecurity Concepts, Security Practices and Documentation
 
-Este repositorio reúne una colección estructurada de conocimientos, prácticas técnicas, mini-laboratorios, documentación profesional y ejercicios aplicados basados en los dominios oficiales de ciberseguridad cubiertos por CompTIA Security+.
+Este repositorio documenta mi proceso de aprendizaje en ciberseguridad a través de notas técnicas, prácticas conceptuales y mini-laboratorios basados en los dominios oficiales de CompTIA Security+.
 
-El enfoque principal es demostrar habilidades reales, entendimiento profundo de los conceptos clave y la capacidad de aplicar controles, técnicas defensivas, metodologías y análisis en escenarios prácticos.
+El enfoque principal es demostrar comprensión sólida de los conceptos clave de seguridad, así como la capacidad de analizar, documentar y aplicar controles, técnicas defensivas y metodologías utilizadas en entornos profesionales de ciberseguridad.
 
+---
 
-**🔴 Objetivo del Repositorio**
+# 🔴 Objetivo del Repositorio
 
-Mi objetivo con este proyecto es proveer un espacio técnico que:
+Mi objetivo con este proyecto es construir un espacio técnico que:
 
-- Documente mis conceptos fundamentales y avanzados de seguridad.
+- Documente conocimientos fundamentales y avanzados de seguridad de la información.
+- Presente prácticas reproducibles y mini-laboratorios alineados con cada dominio de Security+.
+- Demuestre capacidad de análisis, documentación y aplicación de procesos propios del trabajo de un profesional en ciberseguridad.
+- Sirva como portafolio público de aprendizaje técnico, reflejando metodologías, buenas prácticas y pensamiento crítico aplicado a la seguridad.
 
-- Presente prácticas reproducibles y mini-laboratorios alineados a cada dominio.
+---
 
-- Muestre capacidad de análisis, documentación y ejecución de procesos propios del rol de un profesional en ciberseguridad.
+## Estructura General
 
-- Sirva como portafolio público de habilidades, reflejando metodologías, buenas prácticas y pensamiento crítico aplicado.
-
-
-**Estructura General**
-
-El repositorio está organizado por dominios, manteniendo un orden claro y progresivo:
-
-## PENDIENTE A ADJUNTAR --> ESTRUCTURA DE LOS DOMINIOS UNA VEZ ESTEN COMPLETADOS TODOS
-
+El repositorio está organizado por dominios, manteniendo un orden claro y progresivo acorde con los temas cubiertos en la certificación.
 
 Cada carpeta contiene:
 
-Documentación técnica.
+- Documentación técnica
+- Explicaciones detalladas de conceptos de seguridad
+- Diagramas, evidencias y archivos de apoyo
+- Prácticas replicables paso a paso cuando corresponde
 
-Explicaciones detalladas.
+---
 
-Diagramas, evidencias y archivos de apoyo.
+## Contenido Destacado
 
-Prácticas replicables paso a paso donde corresponde.
-
-
-
-**Contenido Destacado**
-
-Algunos elementos clave incluidos en este repositorio:
+Algunos de los elementos clave incluidos en este repositorio:
 
 - Análisis de amenazas y vectores de ataque.
+- Evaluación de vulnerabilidades y análisis de resultados de escáneres.
+- Criptografía aplicada (conceptos, aplicaciones y ejercicios prácticos).
+- Diseño de arquitecturas seguras utilizando principios como **Zero Trust**, segmentación y defensa en profundidad.
+- Controles de endurecimiento, mitigación de riesgos y seguridad operacional.
+- Documentación técnica con enfoque similar a procesos de auditoría y consultoría.
+- Mini-laboratorios diseñados para reforzar el entendimiento práctico de los conceptos.
 
-- Evaluación de vulnerabilidades y revisión de resultados de escáneres.
+---
 
-- Criptografía aplicada (conceptos, usos, mini-labs).
+## Formación y Preparación Profesional
 
-- Diseño de arquitecturas seguras con principios Zero Trust, segmentación, controles defensivos y más.
+Como parte de mi proceso de aprendizaje y preparación para la certificación **CompTIA Security+ (SY0-701)**, he completado formación especializada a través de recursos profesionales.
 
-- Controles de endurecimiento, mitigación y seguridad operacional.
+Uno de los cursos principales utilizados como base de estudio es:
 
-- Documentación profesional estilo auditoría/consultoría.
+**Curso Completo de CompTIA Security+ SY0-701: Práctica + Exam**  
+Instructor: **Álvaro Chirou**
 
-- Laboratorios prácticos que refuerzan el entendimiento aplicado.
+https://www.udemy.com/course/curso-completo-de-comptia-security-sy0-701-con-practica/
 
+Este curso ha servido como guía estructurada para reforzar conocimientos teóricos, comprender los dominios de la certificación y desarrollar ejercicios prácticos relacionados con la seguridad de la información.
 
-## Tecnologías y Herramientas Utilizadas:
+---
 
-## PENDIENTE A LISTAR TODAS LAS TECNOLOGIAS USADAS UNA VEZ FINALIZADO EL REPO
+## Tecnologías y Herramientas Utilizadas
 
+Pendiente
 
-**Licencia**
+---
 
-Proyecto de carácter educativo y demostrativo.
+## Licencia
 
-Contenido liberado para consulta pública.
+Proyecto de carácter educativo y de aprendizaje.
+
+El contenido se comparte con fines de estudio, documentación técnica y consulta pública.
