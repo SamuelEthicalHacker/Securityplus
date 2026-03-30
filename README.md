@@ -55,13 +55,18 @@ Instructor: **Álvaro Chirou**
 
 https://www.udemy.com/course/curso-completo-de-comptia-security-sy0-701-con-practica/
 
-Este curso ha servido como guía estructurada para reforzar conocimientos teóricos, comprender los dominios de la certificación y desarrollar ejercicios prácticos relacionados con la seguridad de la información.
+### Certificado del Curso:
+
+![Certificado Security+](udemyCertificate/comptia-security-plus-course.png)
+
+
+Este curso me ha servido como guía estructurada para reforzar conocimientos teóricos, comprender los dominios de la certificación y desarrollar ejercicios prácticos relacionados con la seguridad de la información.
 
 ---
 
 ## Tecnologías y Herramientas Utilizadas
 
-Pendiente
+Parrot OS (Linux) como entorno de desarrollo utilizando Git y GitHub CLI · Excalidraw para la creación de diagramas técnicos · GitHub 
 
 ---
 
