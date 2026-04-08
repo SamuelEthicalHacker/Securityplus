@@ -2,7 +2,7 @@
 # Domain 1 - Fundamentals of Security (CompTIA Security+) by Samuel Leonardo Ubrí
 
 
-Este módulo contiene documentación teórico-prácticas, laboratorios cortos y esquemas de aprendizaje alineados con el Dominio 1: Fundamentos de Seguridad del examen de certificación CompTIA Security+ (SY0-701).
+Este módulo contiene documentación teórico-práctica, laboratorios cortos y esquemas de aprendizaje alineados con el Dominio 1: Fundamentos de Seguridad del examen de certificación CompTIA Security+ (SY0-701).
 
 
 🔴 Objetivo del Dominio
@@ -13,7 +13,7 @@ El propósito de este dominio es establecer el vocabulario y los principios fund
 🔴 Contenido y Enfoque de Estudio
 
 
-El conocimiento y el material práctico aquí desarrollado han sido construidos con una metodología de aprendizaje híbrida y se centran en los siguientes aspectos clave del Dominio 1:
+El conocimiento y el material práctico aquí desarrollado ha sido construidos con una metodología de aprendizaje híbrida y se centran en los siguientes aspectos clave del Dominio 1:
 
 
 - Principios de seguridad (CIA, defensa en profundidad, trade-off seguridad/comodidad, no repudio, autorización_autenticación, entre otros)
